@@ -11,7 +11,12 @@ Visiting Professor David P. Sanders ([sandersd@mit.edu](mailto:sandersd@mit.edu)
 ### Lectures
 MW 3 - 4.30, online. (Registered students will receive a Zoom link.)
 
+Lectures will be mostly live at the above times, with recordings posted when available. There will be some pre-recorded snippets.
+
 Start date: March 30, 2020.
+
+### Discussion forum
+[Piazza](http://piazza.com/mit/spring2020/6s083)
 
 ### Office hours
 TBD
@@ -28,7 +33,7 @@ Problem sets consist of coding and will be submitted online.
 
 
 
-### Windows users 
+### Windows users
 
 If you use Windows, please download Git for Windows [here](https://gitforwindows.org)
 
@@ -36,14 +41,14 @@ If you use Windows, please download Git for Windows [here](https://gitforwindows
 
 To get the files, use `git` from the command line (or from a GUI), as follows
 
-- Clone the repository once with 
+- Clone the repository once with
 ```
 git clone https://github.com/dpsanders/6.S083
 ```
 This will create a new directory called `6.S083` with the matierials.
 
 
-- Update it to pull in new changes 
+- Update it to pull in new changes
 ```
 git pull
 ```
