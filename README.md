@@ -15,6 +15,10 @@ Lectures will be mostly live at the above times, with recordings posted when ava
 
 Start date: March 30, 2020.
 
+### Install Julia
+You will need to install Julia, and various packages by carefully following the detailed instructions [here](installation.md).
+(Note that you do not need to separately install the Jupyter notebook -- it will be installed for you as part of the installation process. It is possible to use a pre-existing installation, but we recommend against it. This will install a new, separate copy of it.)
+
 ### Discussion forum
 [Piazza](http://piazza.com/mit/spring2020/6s083)
 
