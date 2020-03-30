@@ -63,6 +63,9 @@ If you use JupyterLab, replace the last line with `julia> WebIO.install_jupyter_
 julia> using Pkg
 julia> Pkg.add("Plots")
 julia> Pkg.add("Interact")
+julia> Pkg.add("DataFrames")
+julia> Pkg.add("CSV")
+
 ```
 
 ## 4. Install the Juno IDE
