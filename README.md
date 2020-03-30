@@ -27,7 +27,7 @@ TBD
 
 ### Evaluation
 
-*   5 problem sets, 20% each. Lowest score dropped.
+*   5 problem sets, lowest score dropped. 25% for each of the other 4 problem sets.
 
 *   To pass, you must submit at least 4 problem sets with passing grades
 
