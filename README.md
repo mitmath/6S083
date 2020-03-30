@@ -1,9 +1,13 @@
-# 6.S083 / 18.S190 - Introduction to Computational Thinking, with applications to modelling the COVID-19 pandemic
+# 6.S083 / 18.S190 - Introduction to Computational Thinking with Julia, with applications to modelling the COVID-19 pandemic
 
 ## Spring 2020
 
 Welcome to 6.S083 / 18.S190 (dual listed)! This is an introductory course on Computational Thinking, using the Julia programming language, with applications to modelling the COVID-19 epidemic.
 It is being taught at MIT in the 2nd half of the spring 2020 semester.
+
+[Welcome Video][video:welcome]
+
+[video:welcome]:https://video.odl.mit.edu/videos/25acbf684dbd4fb18caa694dc1e9cb4a/
 
 ### Professors
 Visiting Professor David P. Sanders ([sandersd@mit.edu](mailto:sandersd@mit.edu)) & Professor Alan Edelman
@@ -27,7 +31,7 @@ TBD
 
 ### Evaluation
 
-*   5 problem sets, 20% each. Lowest score dropped.
+*   5 problem sets, lowest score dropped. 25% for each of the other 4 problem sets.
 
 *   To pass, you must submit at least 4 problem sets with passing grades
 
@@ -47,9 +51,9 @@ To get the files, use `git` from the command line (or from a GUI), as follows
 
 - Clone the repository once with
 ```
-git clone https://github.com/dpsanders/6.S083
+git clone https://github.com/mitmath/6S083
 ```
-This will create a new directory called `6.S083` with the matierials.
+This will create a new directory called `6S083` with the matierials.
 
 
 - Update it to pull in new changes
