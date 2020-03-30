@@ -5,7 +5,9 @@
 Welcome to 6.S083 / 18.S190 (dual listed)! This is an introductory course on Computational Thinking, using the Julia programming language, with applications to modelling the COVID-19 epidemic.
 It is being taught at MIT in the 2nd half of the spring 2020 semester.
 
-[Welcome video](https://video.odl.mit.edu/videos/25acbf684dbd4fb18caa694dc1e9cb4a)
+[Welcome Video][video:welcome]
+
+[video:welcome]:https://video.odl.mit.edu/videos/25acbf684dbd4fb18caa694dc1e9cb4a/
 
 ### Professors
 Visiting Professor David P. Sanders ([sandersd@mit.edu](mailto:sandersd@mit.edu)) & Professor Alan Edelman
