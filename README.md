@@ -15,7 +15,7 @@ It is being taught at MIT in the 2nd half of the spring 2020 semester.
 
 
 Please help edit the automatically-generated subtitles in the [lecture transcripts](https://drive.google.com/drive/folders/1ekXz8x78qnq3G-_MhOh6CYgFDbL2G6Vz)!
-If you do so, please change the colour of the part you edited to a colour other than black, and different from the previous and next sections.
+If you do so, please add punctuation, and please change the colour of the part you edited to a colour other than black, and different from the previous and next sections.
 
 ## Professors
 Visiting Professor David P. Sanders ([sandersd@mit.edu](mailto:sandersd@mit.edu)) & Professor Alan Edelman
