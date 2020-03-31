@@ -4,7 +4,7 @@ This is a working syllabus for 6.S083 / 18.S190 during spring 2020.
 
 (For ipynb notebooks to download using upper right icon,  OPTION-click (MAC) or ALT-Click (Linux and Windows ) then "Save Link as.." or "Download Linked File As..")
 
-|Lecture| Video | Slides  | Notebook | Other Resources |
+|Lecture| Slides | Video  | Notebook | Other Resources |
 |--|--|--|--|--|
 | 1. Analyzing covid-19 data <br> (March 30,2020) |  [Lecture 1 Slides][1]  | <ul> <li> [Welcome Video][video:welcome] </li>  <li> [Data Analysis][video:dataanal] </li> </ul> |  [Exploring Data on Covid-19][notebook:exploring] | <ul>  <li> [Video: 3Blue1Brown:Simulating an Epidemic][res1] </li> <li> [Video: How to Tell If We're Beating COVID-19][res2] </li> <li>   [Blog: COVID-19 in Denmark][res3]</ul> |
   <ul>
