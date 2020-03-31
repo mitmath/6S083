@@ -27,7 +27,11 @@ Lectures will be mostly live at the above times, with recordings posted when ava
 
 Start date: March 30, 2020.
 
+
+
 Office hours TBD
+
+
 
 ### Discussion forum
 [Piazza](http://piazza.com/mit/spring2020/6s083)
@@ -44,6 +48,8 @@ TBD
 ### Evaluation
 
 *   5 problem sets, lowest score dropped. 25% for each of the other 4 problem sets.
+
+*   Released on Tuesday and due the following Tuesday until May 5.
 
 *   To pass, you must submit at least 4 problem sets with passing grades
 
