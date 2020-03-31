@@ -7,7 +7,9 @@ It is being taught at MIT in the 2nd half of the spring 2020 semester.
 
 [Welcome Video][video:welcome]
 
-[video:welcome]:https://video.odl.mit.edu/videos/25acbf684dbd4fb18caa694dc1e9cb4a/
+[video:welcome]:https://video.odl.mit.edu/videos/25acbf684dbd4fb18caa694dc1e9cb4a
+
+[Videos of lectures](https://video.odl.mit.edu/collections/8b682578863c4c8a9e0afae35abc2630)
 
 ### Professors
 Visiting Professor David P. Sanders ([sandersd@mit.edu](mailto:sandersd@mit.edu)) & Professor Alan Edelman
