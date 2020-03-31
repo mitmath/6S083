@@ -1,6 +1,7 @@
 # Syllabus and schedule for 6.S083 / 18.S190
 
 This is a working syllabus for 6.S083 / 18.S190 during spring 2020.
+(For ipynb notebooks to download using upper right icon,  OPTION-click (MAC) or ALT-Click (Linux and Windows ) then "Save Link as.." or "Download Linked File As..")
 
 |Lecture| Video | Slides  | Notebook | Other Resources |
 |--|--|--|--|--|
