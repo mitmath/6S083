@@ -2,7 +2,7 @@
 
 ## Spring 2020
 
-Welcome to 6.S083 / 18.S190 (dual listed)! This is an introductory course on Computational Thinking, using the Julia programming language, with applications to modelling the COVID-19 epidemic.
+Welcome to 6.S083 / 18.S190 (doubly listed)! This is an introductory course on Computational Thinking, using the Julia programming language, with applications to modelling the COVID-19 epidemic.
 It is being taught at MIT in the 2nd half of the spring 2020 semester.
 
 ## Videos
