@@ -6,7 +6,7 @@ This is a working syllabus for 6.S083 / 18.S190 during spring 2020.
 
 |Lecture| Slides | Video  | Notebook | Other Resources |
 |--|--|--|--|--|
-| 1. Analyzing covid-19 data <br> (March 30,2020) |  [Lecture 1 Slides][1]  | <ul> <li> [Welcome Video][video:welcome] </li>  <li> [Data Analysis][video:dataanal] </li> </ul> |  [Exploring Data on Covid-19][notebook:exploring] | <ul>  <li> [Video: 3Blue1Brown:Simulating an Epidemic][res1] </li> <li> [Video: How to Tell If We're Beating COVID-19][res2] </li> <li>   [Blog: COVID-19 in Denmark][res3]</ul> |
+| 1. Analyzing covid-19 data <br> (March 30,2020) | <ul><li> [Welcome Slides][welcome]</li><li> [Lecture 1 Slides][1]  | <ul> <li> [Welcome Video][video:welcome] </li>  <li> [Data Analysis][video:dataanal] </li> </ul> |  [Exploring Data on Covid-19][notebook:exploring] | <ul>  <li> [Video: 3Blue1Brown:Simulating an Epidemic][res1] </li> <li> [Video: How to Tell If We're Beating COVID-19][res2] </li> <li>   [Blog: COVID-19 in Denmark][res3]</ul> |
   <ul>
     <li>
 2. Modelling exponential growth
@@ -55,3 +55,4 @@ This is a working syllabus for 6.S083 / 18.S190 during spring 2020.
 [res1]:https://www.youtube.com/watch?v=gxAaO2rsdIs&feature=youtu.be&t=1
 [res2]:https://www.youtube.com/watch?v=54XLXg4fYsc
 [res3]:https://doktormike.gitlab.io/post/covid-19/
+[welcome]:https://docs.google.com/presentation/d/1S8PjNJoKDOqjZM1mkhFwfLMFMzA7DOy8tOODfJxSH6Q/edit#slide=id.p
