@@ -5,13 +5,9 @@
 Welcome to 6.S083 / 18.S190 (doubly listed)! This is an introductory course on Computational Thinking, using the Julia programming language, with applications to modelling the COVID-19 epidemic.
 It is being taught at MIT in the 2nd half of the spring 2020 semester.
 
-## Videos
+### Course Materials
+See [here](syllabus.md).
 
-- [Welcome!][video:welcome]
-
-[video:welcome]:https://video.odl.mit.edu/videos/25acbf684dbd4fb18caa694dc1e9cb4a
-
-- [Lectures](https://video.odl.mit.edu/collections/8b682578863c4c8a9e0afae35abc2630)
 
 
 Please help edit the automatically-generated subtitles in the [lecture transcripts](https://drive.google.com/drive/folders/1ekXz8x78qnq3G-_MhOh6CYgFDbL2G6Vz)!
@@ -80,5 +76,4 @@ git pull
 ```
 This needs to be executed from within the directory. (Use `cd` to change directory.)
 
-### Syllabus
-See [here](syllabus.md) for the course syllabus and schedule.
+
