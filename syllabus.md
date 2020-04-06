@@ -14,7 +14,7 @@
 |--|--|--|--|--|
 | 1. Analyzing covid-19 data <br> (March 30,2020) | <ul><li> [Welcome Slides][welcome]</li><li> [Lecture 1 Slides][1]  | <ul> <li> [Welcome Video][video:welcome] </li>  <li> [Data Analysis][video:dataanal] </li> </ul> |  <ul><li>[Exploring Data on Covid-19][notebook:exploring] </li></ul>| <ul>  <li> [Video: 3Blue1Brown:Simulating an Epidemic][res1] </li> <li> [Video: How to Tell If We're Beating COVID-19][res2] </li> <li>   [Blog: COVID-19 in Denmark][res3]</ul> |
  |2. Modelling exponential growth <br> (April 1, 2020) | <ul><li>[Lecture 2 Slides][2]</li></ul>  |<ul><li>  [Lecture 2 Video][video:2] </li></ul> |<ul><li>[Exponential and Logistic Growth][notebook:2]</li></ul>|<ul><li>[Covid-19 Trajectory](https://aatishb.com/covidtrends/) </ul></li>|
-  
+
 
   <ul>
     <li>
@@ -51,6 +51,8 @@
 9. Fitting to data
   </li>
 </ul>
+
+10. Scientific machine learning
 
 [1]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/01.%20Introduction%20to%20Julia.pdf
 [2]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/02.%20Introduction%20to%20modelling.pdf
