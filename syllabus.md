@@ -52,7 +52,7 @@
 
 [1]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/01.%20Introduction%20to%20Julia.pdf
 [2]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/02.%20Introduction%20to%20modelling.pdf
-[3]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/blob/master/lectures/03.%20Probability.pdf
+[3]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/03.%20Probability.pdf
 
 [video:welcome]:https://video.odl.mit.edu/videos/25acbf684dbd4fb18caa694dc1e9cb4a/
 [video:dataanal]:https://video.odl.mit.edu/videos/6fd61898f9c841bfbf79c7163a2c960d/
