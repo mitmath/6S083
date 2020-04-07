@@ -56,6 +56,8 @@
 [video:welcome]:https://video.odl.mit.edu/videos/25acbf684dbd4fb18caa694dc1e9cb4a/
 [video:dataanal]:https://video.odl.mit.edu/videos/6fd61898f9c841bfbf79c7163a2c960d/
 [video:2]:https://mit.zoom.us/rec/play/tZcqJu2hrWk3EoCU5ASDA6JwW43rJqOs0nQb8voJmEjgBnQBNVvybrFANuBdT4BwqQyhLs2fsHc_EOcH?continueMode=true&_x_zm_rtaid=ASHU40TnQm6DiHQVTVcqtg.1586018029563.8875e6e3159640b6b791712564660e4c&_x_zm_rhtaid=946
+[video:3]:https://mit.zoom.us/rec/share/vdNMC4yg3W9ISZXV5XvyXLQ4PYHUaaa8g3cW__UNyUrv2YVoyW8RMCvfmWE2Axxk
+
 [notebook:exploring]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/c7e60979a98ea733d144483a296687a6370a333d/lectures/live/01%20-%20Exploring%20COVID-19%20data.ipynb
 [notebook:2]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/02%20-%20Exponential%20and%20logistic%20growth.ipynb
 [res1]:https://www.youtube.com/watch?v=gxAaO2rsdIs&feature=youtu.be&t=1
