@@ -13,6 +13,8 @@ header-includes: |
 
 ## Submission deadline: 11:59pm on Tuesday, April 14
 
+**Please include (a version of) your name in the title of your notebook when you submit it.**
+
 
 In this problem set we will look at probability distributions and how to model recovery from an infection.
 
@@ -73,6 +75,12 @@ Make a new version of the `counts` function where you do the following (below). 
 
     We will use this function in the rest of the exercises.
 
+
+```jl
+
+```
+
+
 ### Exercise 2: Modelling recovery
 
 In this exercise, we will investigate the simple model of recovery from an infection that was described in lectures. We
@@ -103,6 +111,11 @@ We see that $\tau$ is a random variable, so we need to study its **probability d
 
 8. Fix $N = 10,000$ and calculate the *mean* time $\langle \tau(p) \rangle$ to recover. Plot this as a function of $p$.
 Can you find the relationship between the two quantities?
+
+
+```jl
+
+```
 
 ### Exercise 3: More efficient geometric distributions
 
@@ -135,6 +148,9 @@ Now suppose we take a uniform random number $r$ between $0$ and $1$. That will f
 
 7. Implement this using the `floor` function.
 
+```jl
+
+```
 
 ### Exercise 4: A simple infection model
 
@@ -156,7 +172,11 @@ Let's denote by $\tau_S$ the length of time spent in state `S`, and similarly fo
 
 5. **Extra credit:** Write a simulation that runs $N$ individuals and keeps track at each step of how many people are in which state. Plot the resulting graph of the number of people in the `S`,  `I`, `E` and `R` states as a function of time.
 
+```jl
 
-### Exercise 4: Helping with transcripts
+```
+
+
+### Exercise 5: Helping with transcripts
 
 Correct another 10 + 20 lines of the transcripts (see problem set 1 for details) and report which ones you did.
