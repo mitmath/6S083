@@ -6,7 +6,10 @@
 |HW2 |  <ul> <li>[ (md)][md:hw2]</li>  <li>[Analyzing Covid-19 Data (pdf)][pdf:hw2] </li> </ul>|<ul><li></li></ul>|
 
 [md:hw1]:https://github.com/mitmath/6S083/blob/master/problem_sets/PS1.md
+[md:hw2]:https://github.com/mitmath/6S083/blob/master/problem_sets/PS2.md
+
 [pdf:hw1]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/problem_sets/PS1.pdf
+[pdf:hw2]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/blob/master/problem_sets/PS2.pdf
 
 (For ipynb notebooks to download using upper right icon,  OPTION-click (MAC) or ALT-Click (Linux and Windows ) then "Save Link as.." or "Download Linked File As..")
 
