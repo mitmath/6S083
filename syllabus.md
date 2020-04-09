@@ -15,7 +15,7 @@
 | 1. Analyzing covid-19 data <br> (March 30,2020) | <ul><li> [Welcome Slides][welcome]</li><li> [Lecture 1 Slides][1]  | <ul> <li> [Welcome Video][video:welcome] </li>  <li> [Data Analysis][video:dataanal] </li> </ul> |  <ul><li>[Exploring Data on Covid-19][notebook:exploring] </li></ul>| <ul>  <li> [Video: 3Blue1Brown:Simulating an Epidemic][res1] </li> <li> [Video: How to Tell If We're Beating COVID-19][res2] </li> <li>   [Blog: COVID-19 in Denmark][res3]</ul> |
  |2. Modelling exponential growth <br> (April 1, 2020) | <ul><li>[Lecture 2 Slides][2]</li></ul>  |<ul><li>  [Lecture 2 Video][video:2] </li></ul> |<ul><li>[Exponential and Logistic Growth][notebook:2]</li></ul>|<ul><li>[Covid-19 Trajectory](https://aatishb.com/covidtrends/)</li> <li> [xkcd comic "Scenario 4"](https://xkcd.com/2289/) </li> </ul>|
  |3. Probability <br> (April 6, 2020) | <ul><li>[Lecture 3 Slides][3]</li></ul> | <ul> <li> [Lecture 3 Video][video:3] </li></ul> |<ul><li>[Modelling Recovery with Probability][notebook:3]</li></ul>|
-|4. Individual-based models  <br> (April 6, 2020) | <ul><li>[Lecture 4 Slides][4]</li></ul> | <ul> <li> [Lecture 4 Video][video:4] </li></ul> |<ul><li>[][notebook:4]</li></ul>|
+|4. Individual-based models  <br> (April 6, 2020) | <ul><li>[Lecture 4 Slides][4]</li></ul> | <ul> <li> [Lecture 4 Video][video:4] </li></ul> |<ul><li>[Random Walks][notebook:4]</li></ul>|
  
 
   <ul>
@@ -60,6 +60,7 @@
 [notebook:exploring]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/c7e60979a98ea733d144483a296687a6370a333d/lectures/live/01%20-%20Exploring%20COVID-19%20data.ipynb
 [notebook:2]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/02%20-%20Exponential%20and%20logistic%20growth.ipynb
 [notebook:3]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/03%20-%20Modelling%20recovery%20process%20using%20probability.ipynb
+[notebook:4]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/04%20-%20Random%20walks.ipynb
 [res1]:https://www.youtube.com/watch?v=gxAaO2rsdIs&feature=youtu.be&t=1
 [res2]:https://www.youtube.com/watch?v=54XLXg4fYsc
 [res3]:https://doktormike.gitlab.io/post/covid-19/
