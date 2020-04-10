@@ -134,7 +134,7 @@ If $p$ is *small*, say $p=0.001$, then the algorithm we used in
 Exercise 2 to sample from geometric distribution will be very slow, since it just sits there calculating a lot of `false`s!
 (The average amount of time taken is what you hopefully found in [1.8])
 
-Let's make a better algorithm. Think of each probability $P_n$ as a "bin" of length $P_n$. If we lay those bins next to each other starting from $P_1$ on the left, then $P_2$, etc., there will be an *infinite* number of bins filling up the interval between $0$ and $1$. (In principle there is no upper limit on how many days it will take to recover, although the probability becomes *very* small.)
+Let's make a better algorithm. Think of each probability $P_n$ as a "bin" of length $n$. If we lay those bins next to each other starting from $P_1$ on the left, then $P_2$, etc., there will be an *infinite* number of bins filling up the interval between $0$ and $1$. (In principle there is no upper limit on how many days it will take to recover, although the probability becomes *very* small.)
 
 Now suppose we take a uniform random number $r$ between $0$ and $1$. That will fall into one of the bins. If it falls into the bin corresponding to $P_n$, then we return $n$ as the recovery time!
 
@@ -144,7 +144,7 @@ Now suppose we take a uniform random number $r$ between $0$ and $1$. That will f
 
 5. Calculate analytically the sum of $P_1$ up to $P_n$. (Hint: This should be a calculation that you did in high school or in Calculus I.)
 
-6. Use the result of [5] to find analytically which bin $n$ a given value of $r \in [0, 1]$ falls into using the inequality $P_{n+1} \le r \le P_n$.
+6. Use the result of [5] to find analytically which bin $n$ a given value of $r \in [0, 1]$ falls into using the inequality $P_{n-1} \le r \lt P_n$.
 
 7. Implement this using the `floor` function.
 
