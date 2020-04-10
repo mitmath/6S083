@@ -23,13 +23,13 @@
 
   <ul>
     <li>
-5. Differential equations
-    </li>
+5. Individual-based models
+      </li>
   </ul>
   <ul>
     <li>
-6. SIR models
-  </li>
+6. Continuous time
+     </li>
   </ul>
   <ul>
     <li>
@@ -38,17 +38,29 @@
   </ul>
   <ul>
     <li>
-8. Optimization
+8.Differential equations
+    </li>
+  </ul>
+  <ul>
+    <li>
+9. SIR models
+  </li>
+  </ul>
+  <ul>
+    <li>
+10. Optimization
    </li>
   </ul>
   <ul>
     <li>
-9. Fitting to data
+11. Fitting to data
   </li>
 </ul>
-
-10. Scientific machine learning
-
+<ul>
+ <li>
+12. Scientific machine learning
+ </li>
+ </ul>
 [1]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/01.%20Introduction%20to%20Julia.pdf
 [2]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/02.%20Introduction%20to%20modelling.pdf
 [3]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/03.%20Probability.pdf
