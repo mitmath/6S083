@@ -1,6 +1,6 @@
-# Computational thinking with Julia 
-## Applications to the COVID-19 pandemic
-### Syllabus and schedule for 6.S083 / 18.S190 (Spring 2020)
+<h1> Computational thinking with Julia  </h1>
+<h2>  Applications to the COVID-19 pandemic </h2>
+<h3> Syllabus and schedule for 6.S083 / 18.S190 (Spring 2020) </h3>
 
 ||Homeworks|Resources|
 |--|--|--|
