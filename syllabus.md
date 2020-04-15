@@ -21,7 +21,7 @@
  |2. Modelling exponential growth <br> (April 1, 2020) | <ul><li>[Lecture 2 Slides][2]</li></ul>  |<ul><li>  [Lecture 2 Video][video:2] </li></ul> |<ul><li>[Exponential and Logistic Growth][notebook:2]</li></ul>|<ul><li>[Covid-19 Trajectory](https://aatishb.com/covidtrends/)</li> <li> [xkcd comic "Scenario 4"](https://xkcd.com/2289/) </li> </ul>|
  |3. Probability <br> (April 6, 2020) | <ul><li>[Lecture 3 Slides][3]</li></ul> | <ul> <li> [Lecture 3 Video][video:3] </li></ul> |<ul><li>[Modelling Recovery with Probability][notebook:3]</li></ul>|
 |4. Random walk models  <br> (April 8, 2020) | <ul><li>[Lecture 4 Slides][4]</li></ul> | <ul> <li> [Lecture 4 Video][video:4] </li></ul> |<ul><li>[Random Walks][notebook:4]</li></ul>|
- |5. Individual-based models <br> (April 13,2020)|
+ |5. Individual-based models <br> (April 13,2020)| <ul><li>[Lecture 5 Slides][4]</li></ul> | <ul> <li> [Lecture 5 Video][video:5] </li></ul> |<ul><li>[??][notebook:5]</li></ul>|   
   
  
   <ul>
@@ -70,6 +70,7 @@
 [video:2]:https://mit.zoom.us/rec/play/tZcqJu2hrWk3EoCU5ASDA6JwW43rJqOs0nQb8voJmEjgBnQBNVvybrFANuBdT4BwqQyhLs2fsHc_EOcH?continueMode=true&_x_zm_rtaid=ASHU40TnQm6DiHQVTVcqtg.1586018029563.8875e6e3159640b6b791712564660e4c&_x_zm_rhtaid=946
 [video:3]:https://mit.zoom.us/rec/share/vdNMC4yg3W9ISZXV5XvyXLQ4PYHUaaa8g3cW__UNyUrv2YVoyW8RMCvfmWE2Axxk
 [video:4]:https://mit.zoom.us/rec/share/_tBoKZ7Z0UpJX6-O6kfcQrERBo3veaa8hCMa_6VZn024oOZsopE1_HE1CF0ZnpLB?startTime=1586372102000
+[video:5]:<ul><li>[Lecture 4 Slides][4]</li></ul> | <ul> <li> [Lecture 4 Video][video:4] </li></ul> |<ul><li>[Random Walks][notebook:4]</li></ul>|
 
 [notebook:exploring]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/c7e60979a98ea733d144483a296687a6370a333d/lectures/live/01%20-%20Exploring%20COVID-19%20data.ipynb
 [notebook:2]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/02%20-%20Exponential%20and%20logistic%20growth.ipynb
