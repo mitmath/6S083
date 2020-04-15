@@ -21,14 +21,8 @@
  |2. Modelling exponential growth <br> (April 1, 2020) | <ul><li>[Lecture 2 Slides][2]</li></ul>  |<ul><li>  [Lecture 2 Video][video:2] </li></ul> |<ul><li>[Exponential and Logistic Growth][notebook:2]</li></ul>|<ul><li>[Covid-19 Trajectory](https://aatishb.com/covidtrends/)</li> <li> [xkcd comic "Scenario 4"](https://xkcd.com/2289/) </li> </ul>|
  |3. Probability <br> (April 6, 2020) | <ul><li>[Lecture 3 Slides][3]</li></ul> | <ul> <li> [Lecture 3 Video][video:3] </li></ul> |<ul><li>[Modelling Recovery with Probability][notebook:3]</li></ul>|
 |4. Random walk models  <br> (April 8, 2020) | <ul><li>[Lecture 4 Slides][4]</li></ul> | <ul> <li> [Lecture 4 Video][video:4] </li></ul> |<ul><li>[Random Walks][notebook:4]</li></ul>|
- |5. Individual-based models <br> (April 13,2020)|
-  
- 
-  <ul>
-    <li>
-6. Continuous time
-     </li>
-  </ul>
+ |5. Individual-based models <br> (April 13,2020)| <ul><li>[Lecture 5 Slides][5]</li></ul> | <ul> <li> [Lecture 5 Video][video:5] </li></ul> |<ul><li>[Variability and custom types][notebook:5]</li></ul>|   
+| 6. Continuous time <br> (April 15, 2020) |
   <ul>
     <li>
 7. Networks
@@ -64,17 +58,21 @@
 [2]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/02.%20Introduction%20to%20modelling.pdf
 [3]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/03.%20Probability.pdf
 [4]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/04.%20Probability%20II%20and%20random%20walks.pdf
+[5]:https://github.com/mitmath/6S083/raw/master/lectures/05.%20Variability%20and%20custom%20types.pdf
 
 [video:welcome]:https://video.odl.mit.edu/videos/25acbf684dbd4fb18caa694dc1e9cb4a/
 [video:dataanal]:https://video.odl.mit.edu/videos/6fd61898f9c841bfbf79c7163a2c960d/
 [video:2]:https://mit.zoom.us/rec/play/tZcqJu2hrWk3EoCU5ASDA6JwW43rJqOs0nQb8voJmEjgBnQBNVvybrFANuBdT4BwqQyhLs2fsHc_EOcH?continueMode=true&_x_zm_rtaid=ASHU40TnQm6DiHQVTVcqtg.1586018029563.8875e6e3159640b6b791712564660e4c&_x_zm_rhtaid=946
 [video:3]:https://mit.zoom.us/rec/share/vdNMC4yg3W9ISZXV5XvyXLQ4PYHUaaa8g3cW__UNyUrv2YVoyW8RMCvfmWE2Axxk
 [video:4]:https://mit.zoom.us/rec/share/_tBoKZ7Z0UpJX6-O6kfcQrERBo3veaa8hCMa_6VZn024oOZsopE1_HE1CF0ZnpLB?startTime=1586372102000
+[video:5]:https://mit.zoom.us/rec/share/y8x_No_QriBIXtbPs2vQc54oGK3oaaa80HUZrqVbxUz8o_RDWEGav3XoJN54wLpx
 
 [notebook:exploring]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/c7e60979a98ea733d144483a296687a6370a333d/lectures/live/01%20-%20Exploring%20COVID-19%20data.ipynb
 [notebook:2]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/02%20-%20Exponential%20and%20logistic%20growth.ipynb
 [notebook:3]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/03%20-%20Modelling%20recovery%20process%20using%20probability.ipynb
 [notebook:4]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/04%20-%20Random%20walks.ipynb
+[notebook:5]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/05%20-%20Variability%20and%20custom%20types.ipynb
+
 [res1]:https://www.youtube.com/watch?v=gxAaO2rsdIs&feature=youtu.be&t=1
 [res2]:https://www.youtube.com/watch?v=54XLXg4fYsc
 [res3]:https://doktormike.gitlab.io/post/covid-19/
