@@ -21,7 +21,7 @@
  |2. Modelling exponential growth <br> (April 1, 2020) | <ul><li>[Lecture 2 Slides][2]</li></ul>  |<ul><li>  [Lecture 2 Video][video:2] </li></ul> |<ul><li>[Exponential and Logistic Growth][notebook:2]</li></ul>|<ul><li>[Covid-19 Trajectory](https://aatishb.com/covidtrends/)</li> <li> [xkcd comic "Scenario 4"](https://xkcd.com/2289/) </li> </ul>|
  |3. Probability <br> (April 6, 2020) | <ul><li>[Lecture 3 Slides][3]</li></ul> | <ul> <li> [Lecture 3 Video][video:3] </li></ul> |<ul><li>[Modelling Recovery with Probability][notebook:3]</li></ul>|
 |4. Random walk models  <br> (April 8, 2020) | <ul><li>[Lecture 4 Slides][4]</li></ul> | <ul> <li> [Lecture 4 Video][video:4] </li></ul> |<ul><li>[Random Walks][notebook:4]</li></ul>|
- |5. Individual-based models <br> (April 13,2020)| <ul><li>[Lecture 5 Slides][4]</li></ul> | <ul> <li> [Lecture 5 Video][video:5] </li></ul> |<ul><li>[??][notebook:5]</li></ul>|   
+ |5. Individual-based models <br> (April 13,2020)| <ul><li>[Lecture 5 Slides][5]</li></ul> | <ul> <li> [Lecture 5 Video][video:5] </li></ul> |<ul><li>[??][notebook:5]</li></ul>|   
   
  
   <ul>
@@ -64,6 +64,7 @@
 [2]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/02.%20Introduction%20to%20modelling.pdf
 [3]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/03.%20Probability.pdf
 [4]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/04.%20Probability%20II%20and%20random%20walks.pdf
+[5]:https://github.com/mitmath/6S083/raw/master/lectures/05.%20Variability%20and%20custom%20types.pdf
 
 [video:welcome]:https://video.odl.mit.edu/videos/25acbf684dbd4fb18caa694dc1e9cb4a/
 [video:dataanal]:https://video.odl.mit.edu/videos/6fd61898f9c841bfbf79c7163a2c960d/
