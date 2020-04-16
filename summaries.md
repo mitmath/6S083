@@ -68,3 +68,35 @@ and we saw that a suitable data structure is a `Vector` of `Vector`s, in which
 each element of the outer `Vector` is itself a `Vector`, namely the trajectory of a
 walker. We saw how we could then transform this into a `Matrix`, i.e. a true 2-dimensional
 array.
+
+
+# Lecture 5 (April 13)
+
+We looked at **variability** of the probability distribution of a random variable.
+
+If we plot a probability distribution, the first thing we notice is that it usually clusters around a central value. A common way to find this is by taking the **mean** of the sample.
+
+We are then interested in the **spread** of the distribution away from the mean, i.e. some measure of the width of the distribution. We start by centering the data by subtracting the mean. We can calculate a positive distance either by taking the absolute value of the centered / de-meaned data, or by squaring it. Then we take the mean of the result.
+
+If we use the squaring option, we get something with the "wrong units", e.g. metres squared instead of metres; this is the **variance**. To get a measure of the width of the distribution we must then take the square root of this to give the **standard deviation**, $\sigma$.
+
+We saw empirically that often, for distributions that look like a normal distribution, about 70% of the data falls within a distance of $1 \sigma$ from the mean, while 95% falls within a distance $2 \sigma$.
+
+Then we started discussing generic programming. We defined random walkers with different behaviours -- a discrete random walker and a continuous random walker. We saw that we could write code to evolve them in time that was **generic** -- i.e., it can be reused for both types of walker, without copying and pasting. To so, we defined a jump function for each type of walker and then **passed that function as an argument to the other function**, such that when we call the function that we passed as an argument, it calls the correct version.
+
+Finally we started to introduce defining our own types in Julia.
+
+
+# Lecture 6 (April 15)
+
+We saw that in the case of different types of walker we need not only a special version of a `jump` function, but also the information about whether the position should be an integer or a floating-point number. Whenever we have different pieces of information that belong together, we should **build a new type**.
+
+We build a new type using `struct` or `mutable struct`, the difference being whether or not the resulting objects can be modified or not after they are created. `struct`s collect together, or **encapsulate**, different pieces of information into a single conceptual whole, and allow us to give a *name* to that collection of data.
+
+If we create a new type called, say, `MyType`, then Julia automatically creates **constructor functions** with the same name as the type. These are functions which, when called, **construct** objects of that type, i.e. with the internal structure (collection of data) that we specified. If we create an object of that type as `x = MyType(10)` then the internal data can be accessed as `x.data`, where `data` is the name of the internal field.
+
+We can create our own constructors, for example to specify default values for the fields, by just writing a new **method** (version) for the function.
+
+We saw that it is common in Julia to write lots of small functions to build up functionality that is reusable.
+
+One way to make code reusable, i.e. **generic**, is to collect related types by defining them to be **subtypes** of an **abstract type**. We can then define functions that accept arguments only of that abstract type.
