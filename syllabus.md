@@ -6,7 +6,7 @@
 |--|--|--|
 |HW1 |  <ul> <li>[Analyzing Covid-19 Data (md)][md:hw1]</li>  <li>[Analyzing Covid-19 Data (pdf)][pdf:hw1] </li> </ul>|<ul><li>[Covid-19 Trajectory](https://aatishb.com/covidtrends/) </li></ul>|
 |HW2 |  <ul> <li>[ Probability and modelling recovery (md)][md:hw2]</li>  <li>[Probability and modelling recovery (pdf)][pdf:hw2] </li> </ul>||
-|HW3 |  <ul> <li>[ Simple epidemic model][md:hw3]</li>  <li>[Simple epidemic model (pdf)][pdf:hw3] </li> </ul>||
+|HW3 |  <ul> <li>[ Simple epidemic model (md) ][md:hw3]</li>  <li>[Simple epidemic model (pdf)][pdf:hw3] </li> </ul>||
 
 [md:hw1]:https://github.com/mitmath/6S083/blob/master/problem_sets/PS1.md
 [md:hw2]:https://github.com/mitmath/6S083/blob/master/problem_sets/PS2.md
