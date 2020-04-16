@@ -68,15 +68,15 @@ as arguments.  This function may *modify* the content of `agents` to implement o
  from the function.
      3. Choose another agent $j$ at random. Make sure that $i \neq j$. To do so, repeat this
     choice *until* $i \neq j$.
-    4. If $j$ is not infected then $i$ infects $j$ with probability $p_I$.
+    4. If $j$ is susceptible then $i$ infects $j$ with probability $p_I$.
 
-6. Write a function `sweep!`. It runs `step!` $N$ times, where $N$ is the number of agents. Thus each agent acts, on average, once per sweep. One sweep is thus the unit
+6. Write a function `sweep!` which takes arguments `agents` and `p_I`$. It runs `step!` $N$ times, where $N$ is the number of agents. Thus each agent acts, on average, once per sweep. One sweep is thus the unit
 of time in our Monte Carlo simulation.
 
 7. Write a function `infection_simulation`. It should take $N$ and $p_I$ as arguments,
 as well as $T$, the total number of steps.
 
-    1. First generate the `Vector` `agents` of length $N$ and a `Vector` `Is` to store
+    1. First generate the `Vector` `agents` of length $N$, picking one to be initially infected, and a `Vector` `Is` to store
     the number of infectious individuals at each step.
 
     2. Run `sweep!` a number $T$ of times. Calculate the total number of infectious
@@ -116,9 +116,8 @@ Instead a good solution is to define a custom composite type.
 2. Define a method of the constructor of `Agent` that takes no arguments and sets the status to `S` and
 the number infected to 0.
 
-3. Make an array `agents` of `Agent`s. Set the first one's infection status to `I`.
 
-4. Rewrite your code from Exercise 1 to use the new `Agent` type. Now when your functions accept an `agents`
+3. Rewrite your code from Exercise 1 to use the new `Agent` type. Now when your functions accept an `agents`
 vector, they should assume that that represents a `Vector` of `Agent` objects.
 
     You can enforce this using a function signature like
@@ -128,20 +127,23 @@ vector, they should assume that that represents a `Vector` of `Agent` objects.
     end
     ```
 
-5. Update an agent's `num_infected` field whenever it infects another agent.
+    You should call your main function `num_infected_dist_simulation`, where you create an array `agents` of `Agent`s of size $N=100$ and set the first one's infection status to `I`.
 
-6. At the end of the simulation, extract the probability distribution of the "number of agents infected", using your code from Exercise 1 of Problem Set 2.
+4. Update an agent's `num_infected` field whenever it infects another agent.
 
-7. Plot the probability distribution. What kind of distribution does it seem to be? You will need to think about how to visualize this.
+5. At the end of the simulation, extract the probability distribution of the "number of agents infected", using your code from Exercise 1 of Problem Set 2. This should be returned from `num_infected_dist_simulation`.
+
+7. Average the distribution over 50 simulations and plot the result. What kind of distribution does it seem to be? You will need to think about how to visualize this.
 
 ## Exercise 3: Epidemic model
 
 1. Add recovery to your model using an additional
 parameter `p_R` in the `step!` and related functions.
-Each agent should check if it is infected, and if so
-it recovers with probability $p_R$ at each step.
 
-    The function `simulation` should return vectors `Ss`, `Is` and `Rs` giving the time evolution of the numbers of $S$, $I$ and $R$, as well as the probability distribution of number of people infected.
+    In each sweep, each agent should check if it is infected, and if so it
+    recovers with probability $p_R$.
+
+    The function `simulation_with_recovery` should return vectors `Ss`, `Is` and `Rs` giving the time evolution of the numbers of $S$, $I$ and $R$, as well as the probability distribution of number of people infected.
 
 2. Run the simulation with $N=1000$, $p_I = 0.1$ and $p_R = 0.01$ for time $T=1000$. Plot $S$, $I$ and $R$ as a function of time. You should see graphs that look familiar from the internet, with an epidemic outbreak, i.e. a significant fraction of infectious agents after a short time, which then recover.
 
