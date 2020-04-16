@@ -77,8 +77,7 @@
 [notebook:3]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/03%20-%20Modelling%20recovery%20process%20using%20probability.ipynb
 [notebook:4]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/04%20-%20Random%20walks.ipynb
 [notebook:5]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/05%20-%20Variability%20and%20custom%20types.ipynb
-[notebook:6]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/06%20-%20Defining%20new%20types.ipynb
-
+[notebook:6]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/c4720cd0e8d96e2991d888a8a21cd41cdc1d46c7/lectures/live/06%20-%20Defining%20new%20types.ipynb
 
 [res1]:https://www.youtube.com/watch?v=gxAaO2rsdIs&feature=youtu.be&t=1
 [res2]:https://www.youtube.com/watch?v=54XLXg4fYsc
