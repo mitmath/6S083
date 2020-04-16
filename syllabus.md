@@ -6,12 +6,15 @@
 |--|--|--|
 |HW1 |  <ul> <li>[Analyzing Covid-19 Data (md)][md:hw1]</li>  <li>[Analyzing Covid-19 Data (pdf)][pdf:hw1] </li> </ul>|<ul><li>[Covid-19 Trajectory](https://aatishb.com/covidtrends/) </li></ul>|
 |HW2 |  <ul> <li>[ Probability and modelling recovery (md)][md:hw2]</li>  <li>[Probability and modelling recovery (pdf)][pdf:hw2] </li> </ul>||
+|HW3 |  <ul> <li>[ Probability and modelling recovery (md)][md:hw3]</li>  <li>[Probability and modelling recovery (pdf)][pdf:hw3] </li> </ul>||
 
 [md:hw1]:https://github.com/mitmath/6S083/blob/master/problem_sets/PS1.md
 [md:hw2]:https://github.com/mitmath/6S083/blob/master/problem_sets/PS2.md
+[md:hw3]:https://github.com/mitmath/6S083/blob/master/problem_sets/PS3.md
 
 [pdf:hw1]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/problem_sets/PS1.pdf
 [pdf:hw2]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/problem_sets/PS2.pdf
+[pdf:hw3]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/problem_sets/PS3.pdf
 
 (For ipynb notebooks to download using upper right icon,  OPTION-click (MAC) or ALT-Click (Linux and Windows ) then "Save Link as.." or "Download Linked File As..")
 
@@ -22,7 +25,7 @@
  |3. Probability <br> (April 6, 2020) | <ul><li>[Lecture 3 Slides][3]</li></ul> | <ul> <li> [Lecture 3 Video][video:3] </li></ul> |<ul><li>[Modelling Recovery with Probability][notebook:3]</li></ul>|
 |4. Random walk models  <br> (April 8, 2020) | <ul><li>[Lecture 4 Slides][4]</li></ul> | <ul> <li> [Lecture 4 Video][video:4] </li></ul> |<ul><li>[Random Walks][notebook:4]</li></ul>|
  |5. Individual-based models <br> (April 13,2020)| <ul><li>[Lecture 5 Slides][5]</li></ul> | <ul> <li> [Lecture 5 Video][video:5] </li></ul> |<ul><li>[Variability and custom types][notebook:5]</li></ul>|   
-| 6. Continuous time <br> (April 15, 2020) |
+| 6. Continuous time <br> (April 15, 2020) |<ul><li>[Lecture 6 Slides][6]</li></ul> |<ul> <li> [Lecture 6 Video][video:6] </li></ul> |
   <ul>
     <li>
 7. Networks
@@ -59,6 +62,7 @@
 [3]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/03.%20Probability.pdf
 [4]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/04.%20Probability%20II%20and%20random%20walks.pdf
 [5]:https://github.com/mitmath/6S083/raw/master/lectures/05.%20Variability%20and%20custom%20types.pdf
+[6]:https://github.com/mitmath/6S083/raw/master/lectures/06.%20Defining%20new%20types%20to%20represent%20data.pdf
 
 [video:welcome]:https://video.odl.mit.edu/videos/25acbf684dbd4fb18caa694dc1e9cb4a/
 [video:dataanal]:https://video.odl.mit.edu/videos/6fd61898f9c841bfbf79c7163a2c960d/
@@ -66,6 +70,7 @@
 [video:3]:https://mit.zoom.us/rec/share/vdNMC4yg3W9ISZXV5XvyXLQ4PYHUaaa8g3cW__UNyUrv2YVoyW8RMCvfmWE2Axxk
 [video:4]:https://mit.zoom.us/rec/share/_tBoKZ7Z0UpJX6-O6kfcQrERBo3veaa8hCMa_6VZn024oOZsopE1_HE1CF0ZnpLB?startTime=1586372102000
 [video:5]:https://mit.zoom.us/rec/share/y8x_No_QriBIXtbPs2vQc54oGK3oaaa80HUZrqVbxUz8o_RDWEGav3XoJN54wLpx
+[video:6]:https://mit.zoom.us/rec/share/2tV7C66r2jhObKPs1WbcZqInRa3ZX6a8gyVL_aZbyUkq9TEEKy-uFAPg0XBUN6gF
 
 [notebook:exploring]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/c7e60979a98ea733d144483a296687a6370a333d/lectures/live/01%20-%20Exploring%20COVID-19%20data.ipynb
 [notebook:2]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/02%20-%20Exponential%20and%20logistic%20growth.ipynb
