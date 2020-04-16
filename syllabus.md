@@ -6,7 +6,7 @@
 |--|--|--|
 |HW1 |  <ul> <li>[Analyzing Covid-19 Data (md)][md:hw1]</li>  <li>[Analyzing Covid-19 Data (pdf)][pdf:hw1] </li> </ul>|<ul><li>[Covid-19 Trajectory](https://aatishb.com/covidtrends/) </li></ul>|
 |HW2 |  <ul> <li>[ Probability and modelling recovery (md)][md:hw2]</li>  <li>[Probability and modelling recovery (pdf)][pdf:hw2] </li> </ul>||
-|HW3 |  <ul> <li>[ Probability and modelling recovery (md)][md:hw3]</li>  <li>[Probability and modelling recovery (pdf)][pdf:hw3] </li> </ul>||
+|HW3 |  <ul> <li>[ Simple epidemic model][md:hw3]</li>  <li>[Simple epidemic model (pdf)][pdf:hw3] </li> </ul>||
 
 [md:hw1]:https://github.com/mitmath/6S083/blob/master/problem_sets/PS1.md
 [md:hw2]:https://github.com/mitmath/6S083/blob/master/problem_sets/PS2.md
@@ -25,7 +25,7 @@
  |3. Probability <br> (April 6, 2020) | <ul><li>[Lecture 3 Slides][3]</li></ul> | <ul> <li> [Lecture 3 Video][video:3] </li></ul> |<ul><li>[Modelling Recovery with Probability][notebook:3]</li></ul>|
 |4. Random walk models  <br> (April 8, 2020) | <ul><li>[Lecture 4 Slides][4]</li></ul> | <ul> <li> [Lecture 4 Video][video:4] </li></ul> |<ul><li>[Random Walks][notebook:4]</li></ul>|
  |5. Individual-based models <br> (April 13,2020)| <ul><li>[Lecture 5 Slides][5]</li></ul> | <ul> <li> [Lecture 5 Video][video:5] </li></ul> |<ul><li>[Variability and custom types][notebook:5]</li></ul>|   
-| 6. Continuous time <br> (April 15, 2020) |<ul><li>[Lecture 6 Slides][6]</li></ul> |<ul> <li> [Lecture 6 Video][video:6] </li></ul> |
+| 6. Continuous time <br> (April 15, 2020) |<ul><li>[Lecture 6 Slides][6]</li></ul> |<ul> <li> [Lecture 6 Video][video:6] </li></ul> | <ul><li>[Defining new types][notebook:6]</li></ul>|   
   <ul>
     <li>
 7. Networks
@@ -77,6 +77,8 @@
 [notebook:3]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/03%20-%20Modelling%20recovery%20process%20using%20probability.ipynb
 [notebook:4]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/04%20-%20Random%20walks.ipynb
 [notebook:5]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/05%20-%20Variability%20and%20custom%20types.ipynb
+[notebook:6]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/06%20-%20Defining%20new%20types.ipynb
+
 
 [res1]:https://www.youtube.com/watch?v=gxAaO2rsdIs&feature=youtu.be&t=1
 [res2]:https://www.youtube.com/watch?v=54XLXg4fYsc
