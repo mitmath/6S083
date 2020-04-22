@@ -7,14 +7,20 @@
 |HW1 |  <ul> <li>[Analyzing Covid-19 Data (md)][md:hw1]</li>  <li>[Analyzing Covid-19 Data (pdf)][pdf:hw1] </li> </ul>|<ul><li>[Covid-19 Trajectory](https://aatishb.com/covidtrends/) </li></ul>|
 |HW2 |  <ul> <li>[ Probability and modelling recovery (md)][md:hw2]</li>  <li>[Probability and modelling recovery (pdf)][pdf:hw2] </li> </ul>||
 |HW3 |  <ul> <li>[ Simple epidemic model (md) ][md:hw3]</li>  <li>[Simple epidemic model (pdf)][pdf:hw3] </li> </ul>||
+|HW4 |  <ul> <li>[ Spatial epidemic model (md) ][md:hw4]</li>  <li>[Spatial epidemic model (pdf)][pdf:hw4] </li> </ul>||
+
 
 [md:hw1]:https://github.com/mitmath/6S083/blob/master/problem_sets/PS1.md
 [md:hw2]:https://github.com/mitmath/6S083/blob/master/problem_sets/PS2.md
 [md:hw3]:https://github.com/mitmath/6S083/blob/master/problem_sets/PS3.md
+[md:hw3]:https://github.com/mitmath/6S083/blob/master/problem_sets/PS4.md
+
 
 [pdf:hw1]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/problem_sets/PS1.pdf
 [pdf:hw2]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/problem_sets/PS2.pdf
 [pdf:hw3]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/problem_sets/PS3.pdf
+[pdf:hw4]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/problem_sets/PS4.pdf
+
 
 (For ipynb notebooks to download using upper right icon,  OPTION-click (MAC) or ALT-Click (Linux and Windows ) then "Save Link as.." or "Download Linked File As..")
 
