@@ -65,6 +65,7 @@
 [4]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/04.%20Probability%20II%20and%20random%20walks.pdf
 [5]:https://github.com/mitmath/6S083/raw/master/lectures/05.%20Variability%20and%20custom%20types.pdf
 [6]:https://github.com/mitmath/6S083/raw/master/lectures/06.%20Defining%20new%20types%20to%20represent%20data.pdf
+[7]:https://github.com/mitmath/6S083/raw/master/lectures/07.%20Markov%20chains%20and%20continuous%20random%20variables.pdf
 
 [video:welcome]:https://video.odl.mit.edu/videos/25acbf684dbd4fb18caa694dc1e9cb4a/
 [video:dataanal]:https://video.odl.mit.edu/videos/6fd61898f9c841bfbf79c7163a2c960d/
