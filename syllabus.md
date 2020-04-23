@@ -32,13 +32,9 @@
 |4. Random walk models  <br> (April 8, 2020) | <ul><li>[Lecture 4 Slides][4]</li></ul> | <ul> <li> [Lecture 4 Video][video:4] </li></ul> |<ul><li>[Random Walks][notebook:4]</li></ul>|
  |5. Characterising variability <br> (April 13,2020)| <ul><li>[Lecture 5 Slides][5]</li></ul> | <ul> <li> [Lecture 5 Video][video:5] </li></ul> |<ul><li>[Variability and custom types][notebook:5]</li></ul>|  <ul> <li> [Covid-19 3 Blue 1 Brown](https://youtu.be/Kas0tIxDvrg)</li></ul>|
 | 6. User-defined types <br> (April 15, 2020) |<ul><li>[Lecture 6 Slides][6]</li></ul> |<ul> <li> [Lecture 6 Video][video:6] </li></ul> | <ul><li>[Defining new types][notebook:6]</li></ul>|  <ul> <li> [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html)</li></ul> |
-  <ul>
-    <li>
-7. Networks
-   </li>
-  </ul>
-  <ul>
-    <li>
+|7. Markov Chains and Continuous Random Variables <br> (April 22, 2020) | <ul><li>[Lecture 7 Slides][7]</li></ul> | <ul> <li> [Lecture 7 Video][video:7] </li></ul> |
+
+  
 8.Differential equations
     </li>
   </ul>
@@ -77,6 +73,7 @@
 [video:4]:https://mit.zoom.us/rec/share/_tBoKZ7Z0UpJX6-O6kfcQrERBo3veaa8hCMa_6VZn024oOZsopE1_HE1CF0ZnpLB?startTime=1586372102000
 [video:5]:https://mit.zoom.us/rec/share/y8x_No_QriBIXtbPs2vQc54oGK3oaaa80HUZrqVbxUz8o_RDWEGav3XoJN54wLpx
 [video:6]:https://mit.zoom.us/rec/share/2tV7C66r2jhObKPs1WbcZqInRa3ZX6a8gyVL_aZbyUkq9TEEKy-uFAPg0XBUN6gF
+[video:7]:https://mit.zoom.us/rec/play/6JYkduqhqDg3GNKVsgSDU_UrW9W6f_6shCgZqPMIzBu3VSRQYwH1b-MRZ19I4LA6s9Zkgkii3hRa3Dg?continueMode=true
 
 [notebook:exploring]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/c7e60979a98ea733d144483a296687a6370a333d/lectures/live/01%20-%20Exploring%20COVID-19%20data.ipynb
 [notebook:2]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/02%20-%20Exponential%20and%20logistic%20growth.ipynb
