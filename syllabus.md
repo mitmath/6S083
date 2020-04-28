@@ -77,6 +77,8 @@
 [video:5]:https://mit.zoom.us/rec/share/y8x_No_QriBIXtbPs2vQc54oGK3oaaa80HUZrqVbxUz8o_RDWEGav3XoJN54wLpx
 [video:6]:https://mit.zoom.us/rec/share/2tV7C66r2jhObKPs1WbcZqInRa3ZX6a8gyVL_aZbyUkq9TEEKy-uFAPg0XBUN6gF
 [video:7]:https://mit.zoom.us/rec/play/6JYkduqhqDg3GNKVsgSDU_UrW9W6f_6shCgZqPMIzBu3VSRQYwH1b-MRZ19I4LA6s9Zkgkii3hRa3Dg?continueMode=true
+[video:8]:https://mit.zoom.us/rec/share/vdBRMbb26n1IWKvR2m7VZ6MzPLr-aaa8hyIX_fZemhqJWjQumKaAbjQ0_4I39fBi
+
 
 [notebook:exploring]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/c7e60979a98ea733d144483a296687a6370a333d/lectures/live/01%20-%20Exploring%20COVID-19%20data.ipynb
 [notebook:2]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/02%20-%20Exponential%20and%20logistic%20growth.ipynb
