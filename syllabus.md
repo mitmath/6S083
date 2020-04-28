@@ -33,7 +33,7 @@
  |5. Characterising variability <br> (April 13,2020)| <ul><li>[Lecture 5 Slides][5]</li></ul> | <ul> <li> [Lecture 5 Video][video:5] </li></ul> |<ul><li>[Variability and custom types][notebook:5]</li></ul>|  <ul> <li> [Covid-19 3 Blue 1 Brown](https://youtu.be/Kas0tIxDvrg)</li></ul>|
 | 6. User-defined types <br> (April 15, 2020) |<ul><li>[Lecture 6 Slides][6]</li></ul> |<ul> <li> [Lecture 6 Video][video:6] </li></ul> | <ul><li>[Defining new types][notebook:6]</li></ul>|  <ul> <li> [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html)</li></ul> |
 |7. Markov Chains and Continuous Random Variables <br> (April 22, 2020) | <ul><li>[Lecture 7 Slides][7]</li></ul> | <ul> <li> [Lecture 7 Video][video:7] </li></ul> | <ul><li>[Markov Chains and Continuous Random Variables][notebook:7]</li></ul>| 
-|8. Continuous Time <br> (April 27, 2020) |    <ul><li>[Lecture 8 Slides][8|]</li></ul> | <ul> <li> [Lecture 8 Video][video:8] </li></ul> |<ul><li>[ Continuous Random Variables][notebook:8]</li></ul>|  
+|8. Continuous Time <br> (April 27, 2020) |    <ul><li>[Lecture 8 Slides][8]</li></ul> | <ul> <li> [Lecture 8 Video][video:8] </li></ul> |<ul><li>[ Continuous Random Variables][notebook:8]</li></ul>|  
   <ul>
     <li>
 8.Differential equations
