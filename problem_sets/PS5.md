@@ -56,6 +56,9 @@ In the case of several functions $S$, $I$ and $R$, we must use a rule like this 
 
 4. Make an interactive visualization in which you can vary $\beta$ and $\gamma$. What relation should $\beta$ and $\gamma$ have for an epidemic outbreak to occur?
 
+```julia
+```
+
 ### Exercise 2: Numerical derivatives
 
 For fitting we need optimization, and for optimization we will use *derivatives*. So in this question we see one method for calculating derivatives numerically.
@@ -81,6 +84,8 @@ Make sure that the line is indeed visually tangent to the graph!
 5. Write a function `gradient(f, a, b)` that calculates the **gradient** of a function $f$ at the point $(a, b)$, given by the vector $\nabla f(a, b) := (\frac{\partial f}{\partial x}(a, b), \frac{\partial f}{\partial y}(a, b))$.
 
 
+```julia
+```
 
 
 ### Exercise 3: Minimization using gradient descent
@@ -119,6 +124,8 @@ To do so we will think of a function as a hill. To find a minimum we should "rol
 
     You can try to install the `PlotlyJS` and (if necessary) `ORCA` packages and activate it with `using Plots; plotlyjs()`. This will / should give an *interactive* 3D plot. (But don't spend time on it if it doesn't immediately work.)
 
+```julia
+```
 
 ### Exercise 4: Learning parameter values
 
@@ -153,6 +160,9 @@ The iterative procedure by which we gradually adjust the parameter values to imp
     Make an interactive visualization showing how the resulting curve $f_{\mu, \sigma}$ evolves over time, compared to the original data.
 
     ("Time" here corresponds to the iterations in the gradient descent function.)
+
+```julia
+```
 
 
 ### Exercise 5: Putting it all together -- fitting an SIR model to data
