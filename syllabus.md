@@ -34,6 +34,7 @@
 | 6. User-defined types <br> (April 15, 2020) |<ul><li>[Lecture 6 Slides][6]</li></ul> |<ul> <li> [Lecture 6 Video][video:6] </li></ul> | <ul><li>[Defining new types][notebook:6]</li></ul>|  <ul> <li> [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html)</li></ul> |
 |7. Markov Chains and Continuous Random Variables <br> (April 22, 2020) | <ul><li>[Lecture 7 Slides][7]</li></ul> | <ul> <li> [Lecture 7 Video][video:7] </li></ul> | <ul><li>[Markov Chains and Continuous Random Variables][notebook:7]</li></ul>| 
 |8. Continuous Time <br> (April 27, 2020) |    <ul><li>[Lecture 8 Slides][8]</li></ul> | <ul> <li> [Lecture 8 Video][video:8] </li></ul> |<ul><li>[ Continuous Time][notebook:8]</li></ul>|  
+|9.||<ul><li> [Lecture 9 Video][video:9]|
   <ul>
     <li>
 8.Differential equations
@@ -78,6 +79,7 @@
 [video:6]:https://mit.zoom.us/rec/share/2tV7C66r2jhObKPs1WbcZqInRa3ZX6a8gyVL_aZbyUkq9TEEKy-uFAPg0XBUN6gF
 [video:7]:https://mit.zoom.us/rec/play/6JYkduqhqDg3GNKVsgSDU_UrW9W6f_6shCgZqPMIzBu3VSRQYwH1b-MRZ19I4LA6s9Zkgkii3hRa3Dg?continueMode=true
 [video:8]:https://mit.zoom.us/rec/share/vdBRMbb26n1IWKvR2m7VZ6MzPLr-aaa8hyIX_fZemhqJWjQumKaAbjQ0_4I39fBi
+[video:9]:https://mit.zoom.us/rec/share/649pLprc8WNIco3f9V7kC4wKJdzjeaa80XQb__UKzBt2XiCyIvtsoULwI_jWE4Ae
 
 
 [notebook:exploring]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/c7e60979a98ea733d144483a296687a6370a333d/lectures/live/01%20-%20Exploring%20COVID-19%20data.ipynb
