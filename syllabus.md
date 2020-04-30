@@ -34,7 +34,7 @@
 | 6. User-defined types <br> (April 15, 2020) |<ul><li>[Lecture 6 Slides][6]</li></ul> |<ul> <li> [Lecture 6 Video][video:6] </li></ul> | <ul><li>[Defining new types][notebook:6]</li></ul>|  <ul> <li> [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html)</li></ul> |
 |7. Markov Chains and Continuous Random Variables <br> (April 22, 2020) | <ul><li>[Lecture 7 Slides][7]</li></ul> | <ul> <li> [Lecture 7 Video][video:7] </li></ul> | <ul><li>[Markov Chains and Continuous Random Variables][notebook:7]</li></ul>| 
 |8. Continuous Time <br> (April 27, 2020) |    <ul><li>[Lecture 8 Slides][8]</li></ul> | <ul> <li> [Lecture 8 Video][video:8] </li></ul> |<ul><li>[ Continuous Time][notebook:8]</li></ul>|  
-|9.||<ul><li> [Lecture 9 Video][video:9]|
+|9. Exponential Distribution ||<ul><li> [Lecture 9 Video][video:9]| <ul><li>[Exponential Distribution][notebook:9]|
   <ul>
     <li>
 8.Differential equations
@@ -90,6 +90,7 @@
 [notebook:6]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/c4720cd0e8d96e2991d888a8a21cd41cdc1d46c7/lectures/live/06%20-%20Defining%20new%20types.ipynb
 [notebook:7]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/07%20-%20Markov%20chains%20and%20continuous%20random%20variables.ipynb
 [notebook:8]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/08%20-%20Continuous%20time.ipynb
+[notebook:9]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/09%20-%20Exponential%20distribution.ipynb
 
 [res1]:https://www.youtube.com/watch?v=gxAaO2rsdIs&feature=youtu.be&t=1
 [res2]:https://www.youtube.com/watch?v=54XLXg4fYsc
