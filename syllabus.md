@@ -38,11 +38,9 @@
 |7. Markov Chains and Continuous Random Variables <br> (April 22, 2020) | <ul><li>[Lecture 7 Slides][7]</li></ul> | <ul> <li> [Lecture 7 Video][video:7] </li></ul> | <ul><li>[Markov Chains and Continuous Random Variables][notebook:7]</li></ul>| 
 |8. Continuous Time <br> (April 27, 2020) |    <ul><li>[Lecture 8 Slides][8]</li></ul> | <ul> <li> [Lecture 8 Video][video:8] </li></ul> |<ul><li>[ Continuous Time][notebook:8]</li></ul>|  
 |9. Exponential Distribution ||<ul><li> [Lecture 9 Video][video:9]| <ul><li>[Exponential Distribution][notebook:9]|
-  <ul>
-    <li>
-8.Differential equations
-    </li>
-  </ul>
+|10. Differential Equations| [Notes](https://docs.google.com/presentation/d/1mL1tqBfyAZm2GEM-cIjpeVjr5zNkmXYO5-8mgV-ecVM/edit?usp=sharing) |  
+  
+  
   <ul>
     <li>
 9. SIR models
