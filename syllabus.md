@@ -8,7 +8,7 @@
 |HW2 |  <ul> <li>[ Probability and modelling recovery (md)][md:hw2]</li>  <li>[Probability and modelling recovery (pdf)][pdf:hw2] </li> </ul>||
 |HW3 |  <ul> <li>[Simple epidemic model (md)][md:hw3]</li>  <li>[Simple epidemic model (pdf)][pdf:hw3] </li> </ul>||
 |HW4 |  <ul> <li>[Spatial epidemic model (md)][md:hw4]</li>  <li>[Spatial epidemic model (pdf)][pdf:hw4] </li> </ul>||
-|HW5 |  <ul> <li>[Scientific Machine Learning (md)][md:hw5]</li>  <li>[Scientific Machine Learning (pdf)][pdf:hw5] </li> </ul>||
+|HW5 |  <ul> <li>[Scientific Machine Learning (md)][md:hw5]</li>  <li>[Scientific Machine Learning (pdf)][pdf:hw5] </li> </ul>| Due NEXT Tuesday May 12|
 
 
 [md:hw1]:https://github.com/mitmath/6S083/blob/master/problem_sets/PS1.md
