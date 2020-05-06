@@ -43,24 +43,15 @@
   
   <ul>
     <li>
-9. SIR models
+11. Optimization and fitting to data
   </li>
   </ul>
   <ul>
     <li>
-10. Optimization
+12. Wrapping up
    </li>
   </ul>
-  <ul>
-    <li>
-11. Fitting to data
-  </li>
-</ul>
-<ul>
- <li>
-12. Scientific machine learning
- </li>
- </ul>
+ 
  
 [1]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/01.%20Introduction%20to%20Julia.pdf
 [2]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/02.%20Introduction%20to%20modelling.pdf
