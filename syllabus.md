@@ -39,7 +39,7 @@
 |8. Continuous Time <br> (April 27, 2020) |    <ul><li>[Lecture 8 Slides][8]</li></ul> | <ul> <li> [Lecture 8 Video][video:8] </li></ul> |<ul><li>[ Continuous Time][notebook:8]</li></ul>|  
 |9. Exponential Distribution ||<ul><li> [Lecture 9 Video][video:9]| <ul><li>[Exponential Distribution][notebook:9]|
 |10. Differential Equations|  <ul> <li> [Lecture 10 Notes][10]  </li></ul> |  <ul><li> [Lecture 10 Video][video:10]
- |11. Optimization and fitting to data | <ul><li>  [Lecture 11 Video][video:11]  </li></ul>  | 
+ |11. Optimization and fitting to data | <ul> <li> [Lecture 11 Notes][11]  </li></ul> |  <ul><li>  [Lecture 11 Video][video:11]  </li></ul>  | 
 
   <ul>
     <li>
