@@ -38,7 +38,7 @@
 |7. Markov Chains and Continuous Random Variables <br> (April 22, 2020) | <ul><li>[Lecture 7 Slides][7]</li></ul> | <ul> <li> [Lecture 7 Video][video:7] </li></ul> | <ul><li>[Markov Chains and Continuous Random Variables][notebook:7]</li></ul>| 
 |8. Continuous Time <br> (April 27, 2020) |    <ul><li>[Lecture 8 Slides][8]</li></ul> | <ul> <li> [Lecture 8 Video][video:8] </li></ul> |<ul><li>[ Continuous Time][notebook:8]</li></ul>|  
 |9. Exponential Distribution ||<ul><li> [Lecture 9 Video][video:9]| <ul><li>[Exponential Distribution][notebook:9]|
-|10. Differential Equations|  <ul> <li> [Lecture 10 Notes](https://docs.google.com/presentation/d/1mL1tqBfyAZm2GEM-cIjpeVjr5zNkmXYO5-8mgV-ecVM/edit?usp=sharing)  </li></ul> |  <ul><li> [Lecture 10 Video][video:10]
+|10. Differential Equations|  <ul> <li> [Lecture 10 Notes][10]  </li></ul> |  <ul><li> [Lecture 10 Video][video:10]
  |11. Optimization and fitting to data | <ul><li>  [Lecture 11 Video][video:11]  </li></ul>  | 
 
   <ul>
@@ -56,6 +56,8 @@
 [6]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/06.%20Defining%20new%20types%20to%20represent%20data.pdf
 [7]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/07.%20Markov%20chains%20and%20continuous%20random%20variables.pdf
 [8]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/08.%20Continuous%20random%20variables.pdf
+[10]:https://docs.google.com/presentation/d/1mL1tqBfyAZm2GEM-cIjpeVjr5zNkmXYO5-8mgV-ecVM/edit?usp=sharing
+[11]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/11.%20Optimization%20and%20linear%20regression.pdf
 
 [video:welcome]:https://video.odl.mit.edu/videos/25acbf684dbd4fb18caa694dc1e9cb4a/
 [video:dataanal]:https://video.odl.mit.edu/videos/6fd61898f9c841bfbf79c7163a2c960d/
