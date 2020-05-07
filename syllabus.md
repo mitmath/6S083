@@ -39,13 +39,8 @@
 |8. Continuous Time <br> (April 27, 2020) |    <ul><li>[Lecture 8 Slides][8]</li></ul> | <ul> <li> [Lecture 8 Video][video:8] </li></ul> |<ul><li>[ Continuous Time][notebook:8]</li></ul>|  
 |9. Exponential Distribution ||<ul><li> [Lecture 9 Video][video:9]| <ul><li>[Exponential Distribution][notebook:9]|
 |10. Differential Equations|  <ul> <li> [Lecture 10 Notes](https://docs.google.com/presentation/d/1mL1tqBfyAZm2GEM-cIjpeVjr5zNkmXYO5-8mgV-ecVM/edit?usp=sharing)  </li></ul> |  <ul><li> [Lecture 10 Video][video:10]
-  
-  
-  <ul>
-    <li>
-11. Optimization and fitting to data
-  </li>
-  </ul>
+ |11. Optimization and fitting to data | <ul><li>  [Lecture 11 Video][video:11]  </li></ul>  | 
+
   <ul>
     <li>
 12. Wrapping up
@@ -73,7 +68,7 @@
 [video:8]:https://mit.zoom.us/rec/share/vdBRMbb26n1IWKvR2m7VZ6MzPLr-aaa8hyIX_fZemhqJWjQumKaAbjQ0_4I39fBi
 [video:9]:https://mit.zoom.us/rec/share/649pLprc8WNIco3f9V7kC4wKJdzjeaa80XQb__UKzBt2XiCyIvtsoULwI_jWE4Ae
 [video:10]:https://mit.zoom.us/rec/play/7518IuH6qzw3ToaVsASDVqRxW9XsLf2s0iYb-PMOzU22VXUEY1quY-ARa7NLJy4EoyF2cTZfZ0CsDdCy?continueMode=true
-
+[video:11]:https://mit.zoom.us/rec/play/uscrJO6s_W43GtzGuQSDVqB5W43uKq-sgHUZrqIEmk69AXhVZFOiN-FAa-JUrxTFKA3zRiz2ZyJnYDE?continueMode=true
 
 [notebook:exploring]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/c7e60979a98ea733d144483a296687a6370a333d/lectures/live/01%20-%20Exploring%20COVID-19%20data.ipynb
 [notebook:2]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/02%20-%20Exponential%20and%20logistic%20growth.ipynb
