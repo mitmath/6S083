@@ -35,15 +35,15 @@
 |4. Random walk models  <br> (April 8, 2020) | <ul><li>[Lecture 4 Slides][4]</li></ul> | <ul> <li> [Lecture 4 Video][video:4] </li></ul> |<ul><li>[Random Walks][notebook:4]</li></ul>|
  |5. Characterising variability <br> (April 13,2020)| <ul><li>[Lecture 5 Slides][5]</li></ul> | <ul> <li> [Lecture 5 Video][video:5] </li></ul> |<ul><li>[Variability and custom types][notebook:5]</li></ul>|  <ul> <li> [Covid-19 3 Blue 1 Brown](https://youtu.be/Kas0tIxDvrg)</li></ul>|
 | 6. User-defined types <br> (April 15, 2020) |<ul><li>[Lecture 6 Slides][6]</li></ul> |<ul> <li> [Lecture 6 Video][video:6] </li></ul> | <ul><li>[Defining new types][notebook:6]</li></ul>|  <ul> <li> [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html)</li></ul> |
-|7. Markov Chains and Continuous Random Variables <br> (April 22, 2020) | <ul><li>[Lecture 7 Slides][7]</li></ul> | <ul> <li> [Lecture 7 Video][video:7] </li></ul> | <ul><li>[Markov Chains and Continuous Random Variables][notebook:7]</li></ul>| 
+|7. Markov Chains and Continuous Random Variables <br> (April 22, 2020) | <ul><li>[Lecture 7 Slides][7]</li></ul> | <ul> <li> [Lecture 7 Video][video:7] </li></ul> | <ul><li>[Markov Chains and Continuous Random Variables][notebook:7]</li></ul>|
 |8. Continuous Time <br> (April 27, 2020) |    <ul><li>[Lecture 8 Slides][8]</li></ul> | <ul> <li> [Lecture 8 Video][video:8] </li></ul> |<ul><li>[ Continuous Time][notebook:8]</li></ul>|  
-|9. Exponential Distribution ||<ul><li> [Lecture 9 Video][video:9]| <ul><li>[Exponential Distribution][notebook:9]|
-|10. Differential Equations|  <ul> <li> [Lecture 10 Notes][10]  </li></ul> |  <ul><li> [Lecture 10 Video][video:10]
- |11. Optimization and fitting to data | <ul> <li> [Lecture 11 Notes][11]  </li></ul> |  <ul><li>  [Lecture 11 Video][video:11]  </li></ul>  | 
-|12. Networks in Epidemic Modelling | <ul> <li> [Lecture 12 Notes][12]  </li></ul> |  <ul><li>  [Lecture 12 Video][video:12]  </li></ul>  | <ul><li>[Networks][notebook:12]</li></ul>|  
-  
- 
- 
+|9. Exponential Distribution <br> (April 29, 2020) ||<ul><li> [Lecture 9 Video][video:9]| <ul><li>[Exponential Distribution][notebook:9]|
+|10. Differential Equations <br> (May 4, 2020)|  <ul> <li> [Lecture 10 Notes][10]  </li></ul> |  <ul><li> [Lecture 10 Video][video:10]
+ |11. Optimization and fitting to data <br> (May 6, 2020)| <ul> <li> [Lecture 11 Notes][11]  </li></ul> |  <ul><li>  [Lecture 11 Video][video:11]  </li></ul>  |
+|12. Networks in Epidemic Modelling <br> (May 11, 2020) | <ul> <li> [Lecture 12 Notes][12]  </li></ul> |  <ul><li>  [Lecture 12 Video][video:12]  </li></ul>  | <ul><li>[Networks][notebook:12]</li></ul>|  
+
+
+
 [1]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/01.%20Introduction%20to%20Julia.pdf
 [2]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/02.%20Introduction%20to%20modelling.pdf
 [3]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/03.%20Probability.pdf
